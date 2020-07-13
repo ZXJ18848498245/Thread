@@ -17,6 +17,7 @@ public class stringBuilder {
         //链式编程
         builder.append("hello").append("world").append(true).append(100);
         System.out.println("builder:"+builder);
+        System.out.println(builder.getClass());
 
 
     }
