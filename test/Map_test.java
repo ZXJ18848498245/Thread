@@ -1,5 +1,4 @@
-import java.util.HashMap;
-import java.util.Scanner;
+import java.util.*;
 
 public class Map_test {
     public static void main(String[] args) {
@@ -28,5 +27,6 @@ public class Map_test {
             }
         }
         System.out.println(map);
+
     }
 }
